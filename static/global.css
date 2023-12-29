@@ -1,0 +1,22 @@
+:root {
+--primary: #7c3aed;
+--primary-content: #ffffff;
+--primary-light: #9b69f1;
+--primary-dark: #5f14e0;
+
+--foreground: #252329;
+--background: #19181b;
+--border: #3e3b45;
+--copy: #fbfbfb;
+--copy-light: #d8d6dc;
+--copy-lighter: #a49fac;
+
+--success: #3aed3a;
+--warning: #eded3a;
+--error: #ed3a3a;
+}
+
+body {
+    background: var(--background);
+    color: var(--primary-content);
+}
